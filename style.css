@@ -1,0 +1,29 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.half-width {
+    color: white;
+    padding-left: 30%;
+    padding-right: 15%;
+    padding-top: 10%;
+    padding-bottom: 5%;
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+}
+
+.font-size {
+    color: white;
+    font-size: 30px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
