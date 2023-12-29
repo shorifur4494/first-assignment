@@ -159,3 +159,60 @@ body {
 .cotibute-space {
     margin-top: 25px;
 }
+
+.font-padding {
+    padding-left: 350px;
+}
+
+.font-donate2 {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 5%;
+    line-height: 25px;
+}
+
+.color-box {
+    padding: 100px 100px;
+    background-color: rgb(223, 142, 128);
+    text-align: center;
+    margin: auto;
+    width: 60%;
+
+
+}
+
+.mailchip-div {
+    display: inline-flex;
+
+}
+
+.mail-box {
+
+    border-radius: 5px;
+    width: 192px;
+    padding: 10px 8px;
+    background: #fff;
+
+}
+
+.mail-box2 {
+    border-radius: 5px;
+    width: 135px;
+    padding: 10px 6px;
+    background: rgb(210, 86, 86);
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+
+}
+
+.font-color {
+    color: tomato;
+}
+
+.font-color2 {
+    color: #fff;
+}
